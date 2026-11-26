@@ -1,0 +1,10 @@
+{
+  "description": "Explora ejercicios de matemáticas con soluciones paso a paso, modelos 3D interactivos de GeoGebra y videos explicativos para facilitar el aprendizaje.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
